@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568917625860.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A3023F7B",
+    "lastKnownWriteTime" : 1568918190,
+    "last_content_update" : 1568918190719,
+    "path" : "~/MyBlog/content/post/2019-09-19-hello-world.Rmd",
+    "project_path" : "content/post/2019-09-19-hello-world.Rmd",
+    "properties" : {
+        "cursorPosition" : "25,3",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

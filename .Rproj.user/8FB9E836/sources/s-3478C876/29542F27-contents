@@ -1,0 +1,13 @@
+install.packages("blogdown")
+library(blogdown)
+
+#use Hugo academic theme
+
+blogdown::new_site(theme="gcushen/hugo-academic")
+
+#update
+
+blogdown::serve_site()
+
+#posts are done in content files
+#website is built in public folder- so only push the public folder to the repository!

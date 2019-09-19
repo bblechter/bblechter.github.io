@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568917527668.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1748894111",
+    "id" : "38B14B91",
+    "lastKnownWriteTime" : 1568917522,
+    "last_content_update" : 1568917531886,
+    "path" : "~/MyBlog/content/post/2019-09-19-hellow-world.Rmd",
+    "project_path" : "content/post/2019-09-19-hellow-world.Rmd",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
